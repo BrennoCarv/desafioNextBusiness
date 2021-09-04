@@ -47,13 +47,13 @@ font {
     color: #ffff;
 }
 
-.valor {
+.apresentacao {
     border: solid 5px;
     border-color: #434779;
     background-color: #434779;
     border-radius: 30px;
     padding: 30px;
-    display: inline-flex;
+    display: inline-block;
     text-align: center;
 }
 
