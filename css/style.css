@@ -13,7 +13,7 @@ body {
 .alert {
     margin-top: 2rem;
     margin-left: 20rem;
-    width: 53%;
+    width: 44rem;
     color: #ffff;
     background-color: #3D406B;
     border-color: #3D406B;
@@ -141,6 +141,10 @@ button {
 }
 
 @media screen and (max-width: 600px) {
+
+    .alert {
+        width: 100%;
+    }
 
     .mensagem-basic {
         width: 70%;
